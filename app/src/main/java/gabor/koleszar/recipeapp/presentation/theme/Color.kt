@@ -1,4 +1,4 @@
-package gabor.koleszar.recipeapp.ui.theme
+package gabor.koleszar.recipeapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
